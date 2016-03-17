@@ -4,7 +4,7 @@ var $ul2 = $('<ul>');
 var $li = $('<li>');
 var $h1 = $('<h2>');
 var $ul1 = $('ul');
-var $ulli = $('ul li')
+var $ulli = $('ul li');
 
 $body.append($h2);
 $h2.html('Below ground veggies');
